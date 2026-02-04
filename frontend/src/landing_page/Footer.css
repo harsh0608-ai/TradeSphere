@@ -1,0 +1,17 @@
+.footer-links {
+    display: flex;
+    flex-direction: column;
+}
+.footer-links p {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.footer-links a {
+    color: black;
+    opacity: 0.6;
+    text-decoration: none;
+}
+.footer-container {
+    padding: 40px 20px;
+    background-color: #f8f8f8;
+}
