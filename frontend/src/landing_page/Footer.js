@@ -8,7 +8,7 @@ function Footer() {
         <div className="row mt-5  ">
           <div className="col ">
             <div className="row mt-2 ">
-                <img src="media/images/logo.png" style={{ width: "50%" }} />
+                <img src="media/images/logo.png" alt="TradeSphere logo" style={{ width: "50%" }} />
                 <p className="mt-4 text-muted" style={{ fontSize: "14px" }}>
                 &copy; 2010 - 2024, Tradesphere Broking Ltd. All rights reserved.
                 </p>
@@ -29,37 +29,37 @@ function Footer() {
             <br />
             <a href="http://localhost:3002/pricing">Pricing</a>
             <br />
-            <a href="">Referral programme</a>
+            <a href="#referral">Referral programme</a>
             <br />
-            <a href="">Careers</a>
+            <a href="#careers">Careers</a>
             <br />
-            <a href="">Tradesphere.tech</a>
+            <a href="#tech">Tradesphere.tech</a>
             <br />
-            <a href="">Press & media</a>
+            <a href="#press">Press & media</a>
             <br />
-            <a href="">Tradesphere cares (CSR)</a>
+            <a href="#csr">Tradesphere cares (CSR)</a>
             <br />
           </div>
           <div className="col footer-links">
             <p>Support</p>
-            <a href="">Contact</a>
+            <a href="#contact">Contact</a>
             <br />
             <a href="http://localhost:3002/support">Support portal</a>
             <br />
-            <a href="">Z-Connect blog</a>
+            <a href="#blog">Z-Connect blog</a>
             <br />
-            <a href="">List of charges</a>
+            <a href="#charges">List of charges</a>
             <br />
-            <a href="">Downloads & resources</a>
+            <a href="#downloads">Downloads & resources</a>
             <br />
           </div>
           <div className="col footer-links">
             <p>Account</p>
             <a href="http://localhost:3001/signup">Open an account</a>
             <br />
-            <a href="">Fund transfer</a>
+            <a href="#fund-transfer">Fund transfer</a>
             <br />
-            <a href="">60 day challenge</a>
+            <a href="#challenge">60 day challenge</a>
             <br />
           </div>
         </div>
