@@ -8,7 +8,7 @@ function Footer() {
         <div className="row mt-5  ">
           <div className="col ">
             <div className="row mt-2 ">
-                <img src="media/images/logo.png" alt="TradeSphere logo" style={{ width: "50%" }} />
+                <img src="media/images/logo.png" style={{ width: "50%" }} />
                 <p className="mt-4 text-muted" style={{ fontSize: "14px" }}>
                 &copy; 2010 - 2024, Tradesphere Broking Ltd. All rights reserved.
                 </p>
@@ -23,43 +23,43 @@ function Footer() {
           </div>
           <div className="col footer-links ">
             <p>Company</p>
-            <a href="http://localhost:3002/about">About</a>
+            <a href="http://localhost:3001/about">About</a>
             <br />
-            <a href="http://localhost:3002/products">Products</a>
+            <a href="http://localhost:3001/products">Products</a>
             <br />
-            <a href="http://localhost:3002/pricing">Pricing</a>
+            <a href="http://localhost:3001/pricing">Pricing</a>
             <br />
-            <a href="#referral">Referral programme</a>
+            <a href="">Referral programme</a>
             <br />
-            <a href="#careers">Careers</a>
+            <a href="">Careers</a>
             <br />
-            <a href="#tech">Tradesphere.tech</a>
+            <a href="">Tradesphere.tech</a>
             <br />
-            <a href="#press">Press & media</a>
+            <a href="">Press & media</a>
             <br />
-            <a href="#csr">Tradesphere cares (CSR)</a>
+            <a href="">Tradesphere cares (CSR)</a>
             <br />
           </div>
           <div className="col footer-links">
             <p>Support</p>
-            <a href="#contact">Contact</a>
+            <a href="">Contact</a>
             <br />
-            <a href="http://localhost:3002/support">Support portal</a>
+            <a href="http://localhost:3001/support">Support portal</a>
             <br />
-            <a href="#blog">Z-Connect blog</a>
+            <a href="">Z-Connect blog</a>
             <br />
-            <a href="#charges">List of charges</a>
+            <a href="">List of charges</a>
             <br />
-            <a href="#downloads">Downloads & resources</a>
+            <a href="">Downloads & resources</a>
             <br />
           </div>
           <div className="col footer-links">
             <p>Account</p>
-            <a href="http://localhost:3001/signup">Open an account</a>
+            <a href="http://localhost:3002/signup">Open an account</a>
             <br />
-            <a href="#fund-transfer">Fund transfer</a>
+            <a href="">Fund transfer</a>
             <br />
-            <a href="#challenge">60 day challenge</a>
+            <a href="">60 day challenge</a>
             <br />
           </div>
         </div>

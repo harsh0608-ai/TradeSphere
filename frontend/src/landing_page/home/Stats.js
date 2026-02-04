@@ -35,7 +35,7 @@ function Stats() {
               Explore our products{" "}
               <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
-            <a href="http://localhost:3001" style={{ textDecoration: "none" }}>
+            <a href="http://localhost:3002" style={{ textDecoration: "none" }}>
               Try Kite demo{" "}
               <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
